@@ -14,5 +14,7 @@ This can be used as a reference for your own assets. This example does the follo
 * Rename the zip file to jar
 * Put the jar file in the mods folder of your modpack or instance
 
+As an alternative you can also download the jar directly from this page (it's a released file)
+
 # How to use
 There are two ways to use this datapack. With the first way you just create a normal Lost Cities world. If you do that then you still get all buildings but building1 will have a lot more chests and use different loot. With the second way you create a customized Lost Cities world where you select the 'testworld' worldstyle (you can do that in the top of the Lost Cities customization page). In this case you'll only get building1 in the world

@@ -1,0 +1,17 @@
+modLoader="lowcodefml"
+loaderVersion="[40,)"
+license="None"
+
+[[mods]]
+modId="testassets"
+version="1.0"
+displayName="Test Assets"
+description='''
+Test Assets for Lost Cities
+'''
+[[dependencies.testassets]]
+    modId="lostcities"
+    mandatory=true
+    versionRange="[1.18-5.3.6,)"
+    ordering="AFTER"
+    side="BOTH"
